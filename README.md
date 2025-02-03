@@ -78,4 +78,4 @@ This project is licensed under the MIT License. Feel free to fork, contribute, o
 
 ---
 
-## Happy Coding
+## Happy Coding ✨
