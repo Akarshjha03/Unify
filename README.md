@@ -46,11 +46,11 @@ Welcome to Unify, a sleek and simple unit converter app designed to make convers
 
 ## 🛠 Requirements
 
-Android Studio
+- Android Studio
 
-Kotlin 1.5+
+- Kotlin 1.5+
 
-Minimum SDK: 21 (Lollipop)
+- Minimum SDK: 21 (Lollipop)
 
 ---
 
@@ -68,13 +68,13 @@ This project is licensed under the MIT License. Feel free to fork, contribute, o
 
 ## 💻 Contributions
 
-Contributions are always welcome!
+- Contributions are always welcome!
 
-Fork the repository.
+- Fork the repository.
 
-Create a feature branch.
+- Create a feature branch.
 
-Submit a pull request.
+- Submit a pull request.
 
 ---
 
